@@ -11,11 +11,8 @@
 | 22.8.5 | 杨可轶 | 学习吴恩达把回归算法看完了(to p30) |
 | 22.8.6 | 杨可轶 | 今日放假，等同学补进度 |
 | 22.8.7 | 杨可轶 | 学习吴恩达，逻辑回归概念(to p34) |
-| 22.8.8 | 杨可轶 | 今日安排大家自行学习(mainly because I have an English course) |
+| 22.8.8 | 杨可轶 | 今日安排大家自行学习(mainly because I have an English course)，项目搁置 |
+| 22.9.18 | 杨可轶 | 重启项目 |
+| 22.9.18 - 22.9.23 | 杨可轶 | 第一个任务周期：任务如下<br />1搞清楚以下几个问题：1.什么是OLS 2.什么是gwr 3.什么是gnnwr 4.以上几个模型的具体实现方法是什么，要求能用数学形式（甚至伪代码）表达 5.回答一个问题：我们的研究和劲哥的大论文有什么区别，我们研究的意义在哪里？ 6.未来搭建我们自己的网络时的*具体*思路是什么<br />2团队9月23日晚上开会解决上述问题并安排下一步任务，准备周日讨论材料 |
 |  |  |  |
-
-# Basic Resources
-
-+ [Google colab](https://www.bilibili.com/video/BV13K4y1P7dx?vd_source=201165409d215309378c147c92696501)     [Link2](https://www.youtube.com/watch?v=inN8seMm7UI)
-+ [吴恩达机器学习中英双语](https://www.bilibili.com/video/BV1o3411M7cj?p=1&vd_source=201165409d215309378c147c92696501)   [课程资源](https://vkosuri.github.io/CourseraMachineLearning/)
 
