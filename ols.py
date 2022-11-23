@@ -42,12 +42,12 @@ for epoch in range(epochs):
     optimizer.step()
     # print(inputs)
     # print(labels)
-    # print("epoch is {}, loss is {}".format(epoch, loss.item()))
+    print("epoch is {}, loss is {}".format(epoch, loss.item()))
 with torch.no_grad():
     predict = model(Variable(torch.from_numpy(x_train))).data.numpy()
 
 plt.clf()
-plt.plot(x_train, y_train, '', label='True data', alpha=0.5)
+# plt.plot(x_train, y_train, '', label='True data', alpha=0.5)
 plt.plot(x_train, predict, '--', label='Predictions', alpha=0.5)
 plt.legend(loc='best')
 plt.show()
